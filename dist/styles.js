@@ -12,7 +12,8 @@ var styles = _reactNative.StyleSheet.create({
     overflow: 'hidden'
   },
   swipeoutBtnTouchable: {
-    flex: 1
+    flex: 1,
+    borderRadius: 20/3
   },
   swipeoutBtn: {
     alignItems: 'center',
