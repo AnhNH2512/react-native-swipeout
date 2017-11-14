@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
   },
   swipeoutBtnTouchable: {
     flex: 1,
+    borderRadius: 20/3,
   },
   swipeoutBtn: {
     alignItems: 'center',
